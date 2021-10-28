@@ -2,4 +2,6 @@ numpy
 pandas
 pytorch
 tensorflow
+transformers
+stanza
 simpletransformers
