@@ -16,3 +16,5 @@ The data should be in CSV form for the model to train\evaluate. The code for it 
 For analysis purposes, Word_Level_Finder.py can be used on the data to find the distance of a word from the target word in the Dependency Tree. To replicate the analysis on the report, combine this with Eraser method explained in the following paper. 
 
 https://arxiv.org/abs/1911.03429
+
+For the complete project report and analysis of our method read the Project Report file. 
